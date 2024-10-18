@@ -1,7 +1,7 @@
 # Ex-1 UML Diagrams for ATM & Banking Systems :
 
-# NAME:HARISHA S
-# REG NO:212223040063
+# NAME: MOHAN KRISHNA J
+# REG NO:212223220060
 # Aim :
 To create UML Diagrams for ATM & Banking systems using StarUML.
 
